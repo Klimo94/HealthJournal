@@ -1,0 +1,34 @@
+{
+  "measurements": [
+    {
+      "date": "2024-08-13",
+      "bloodPressure": "117/77",
+      "bloodSugar": "156"
+    },
+    {
+      "date": "2024-08-14",
+      "bloodPressure": "135/85",
+      "bloodSugar": "124"
+    },
+    {
+      "date": "2024-08-15",
+      "bloodPressure": "112/67",
+      "bloodSugar": "144"
+    },
+    {
+      "date": "2024-08-21",
+      "bloodPressure": "97/67",
+      "bloodSugar": "115"
+    },
+    {
+      "date": "2024-08-21",
+      "bloodPressure": "102/66",
+      "bloodSugar": "100"
+    },
+    {
+      "date": "2024-08-21",
+      "bloodPressure": "149/101",
+      "bloodSugar": "112"
+    }
+  ]
+}
